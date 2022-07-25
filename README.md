@@ -1,7 +1,7 @@
 # burpsuite
 pass: 311138
 
-download latest version and crack it
+download latest version and do the magic trick
 
 ## create launcher
 touch burpsuite && chmod +x burpsuite
